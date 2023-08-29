@@ -11,7 +11,7 @@ export default function Home() {
     if(value.trim()[0].toLowerCase()!=='a'){
       push(`/prediction/${value}`);
     }else{
-      push(`/start-a`);
+      push(`/starta`);
     }
   };
   return (

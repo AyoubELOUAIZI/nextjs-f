@@ -5,7 +5,7 @@ import Image from "next/image";
 const About = () => {
   return (
     <div className={styles.container}>
-      <p>     nice I toled you the name should not start with 'A'
+      <p>     nice I toled you the name should not start with A
 </p>
     </div>
   );
