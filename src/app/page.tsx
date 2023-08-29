@@ -22,7 +22,7 @@ export default function Home() {
 
       <div className="p-12 shadow-md bg-white rounded-md">
         <h1 className="text-2xl font-semibold mb-4 text-center text-black">
-          Enter a string but not start with 'A'
+          Enter a string but not start with A
         </h1>
         <form onSubmit={handleSubmit} className="space-y-3">
           <input
