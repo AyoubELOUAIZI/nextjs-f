@@ -1,0 +1,15 @@
+.container {
+    /* background-color: yellowgreen; */
+    height:99vh;
+    font-size:30px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-style: italic;
+    background-image: url("https://e0.pxfuel.com/wallpapers/549/345/desktop-wallpaper-zte-65-3d-blue-art-prints-cockatoo-art-black-parrot-thumbnail.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    backdrop-filter:grayscale(100%);
+   }
+  
+  
